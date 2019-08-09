@@ -12,7 +12,7 @@ Neo4j from 2.0 onwards.
 <dependency>
     <groupId>org.mambofish</groupId>
     <artifactId>neo4j-offline</artifactId>
-    <version>1.0-RELEASE</version>
+    <version>1.0</version>
 </dependency>
 ```
 
