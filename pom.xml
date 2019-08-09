@@ -4,7 +4,7 @@
 
     <groupId>org.mambofish</groupId>
     <artifactId>neo4j-offline</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <neo4j.version>3.5.7</neo4j.version>
@@ -53,7 +53,7 @@
         <connection>scm:git:git@github.com:mambofish/neo4j-offline.git</connection>
         <developerConnection>scm:git:git@github.com:mambofish/neo4j-offline.git</developerConnection>
         <url>https://github.com/mambofish/neo4j-offline.git</url>
-        <tag>neo4j-offline-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
